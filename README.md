@@ -1,7 +1,7 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Saya Dwipa Prasetyo Priyoko. 
 
 <p align="justify">
-I am a graduate of the Mathematics at Ahmad Dahlan University, with a deep interest in Data Science, Machine Learning, Deep Learning, and Artificial Intelligence. I am proficient in programming languages such as Python, SQL, and R, and have skills in using tools like Tableau. With one year of experience as a tutor at the Data Science Study Center, I am accustomed to conveying complex concepts in a simple and effective manner. I have also obtained certification from the National Professional Certification Agency (BNSP) as an Associate Data Scientist, which strengthens my technical and professional competencies. My commitment to continuous learning and applying knowledge in real-world scenarios makes me ready to contribute to the development of innovative, data-driven solutions
+I am a graduate of the Mathematics at Ahmad Dahlan University, with a deep interest in Data Science, Machine Learning, Deep Learning, and Artificial Intelligence. I am proficient in programming languages such as Python, SQL, and R, and have skills in using tools like Tableau. With one year of experience as a tutor at the Pusat Studi Data Science, I am accustomed to conveying complex concepts in a simple and effective manner. I have also obtained certification from the National Agency of Profession Certification as an Associate Data Scientist. My commitment to continuous learning and applying knowledge in real-world scenarios makes me ready to contribute to the development of innovative, data-driven solutions
 </p>
 
 ## Education:
